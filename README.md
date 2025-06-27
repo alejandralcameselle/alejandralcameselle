@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Alejandra L. Cameselle
 
-<!--
-**alejandralcameselle/alejandralcameselle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a marine geoscientist and data scientist focused on submarine cable route design, seafloor risk assessment, and spatial AI applications.
 
-Here are some ideas to get you started:
+Through **GeoAI Works**, I explore how to transform geospatial data into actionable insights for sustainable infrastructure and marine operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Current focus
+- Submarine cable burial feasibility
+- Seafloor complexity classification using bathymetry & slope
+- GeoAI and spatial risk models
+
+### 🧰 Tools & domains
+`Python` · `GeoPandas` · `QGIS` · `PostGIS` · `Machine Learning`  
+`Bathymetric analysis` · `Route engineering` · `Operational risk mapping` · `Geospatial analytics`
+
+---
+
+📍 Founder of **[GeoAI Works](https://www.linkedin.com/company/geoai-works/)**  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/alejandralcameselle/)  
+📂 Check out my portfolio: [GeoAI Works on GitHub](https://github.com/GeoAI-Works)
