@@ -1,3 +1,5 @@
+<img src="header.png" alt="GeoAI Header" width="100%">
+
 # 👋 Hi, I’m Alejandra L. Cameselle
 
 I’m a marine geoscientist and data scientist focused on submarine cable route design, seafloor risk assessment, and spatial AI applications.
